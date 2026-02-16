@@ -1,4 +1,4 @@
-# ED_Lista1.01
+# ED_Lista01.01
 ## Soma Recursiva
 
 Este desafio consiste em criar uma aplicação, em Java, que some os N primeiros número naturais.
